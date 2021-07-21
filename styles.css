@@ -61,3 +61,7 @@ hr {
   border-spacing: 70px;
   display: block;
 }
+
+.center {
+  text-align: center;
+}
